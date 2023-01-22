@@ -1,0 +1,212 @@
+[
+    {
+        "id": "camiseta-01",
+        "titulo": "Remera Lisa",
+        "imagen": "./img/camisetas/remera-basica.JPG",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Musculosa Butterfly",
+        "imagen": "./img/camisetas/musculosa-volados.JPG",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Top Pink",
+        "imagen": "./img/camisetas/top-rosa.JPG",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "abrigo-01",
+        "titulo": "Canguro Floer",
+        "imagen": "./img/abrigos/canguro-flores.JPG",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Buzo Basico",
+        "imagen": "./img/abrigos/buzo-clasico.JPG",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Campera Biker",
+        "imagen": "./img/abrigos/campera-cuero.JPG",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Campera Jean",
+        "imagen": "./img/abrigos/campera-jean.JPG",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Skort",
+        "imagen": "./img/pantalones/skort-corto.JPG",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Short Jean",
+        "imagen": "./img/pantalones/short-jean.JPG",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "vestido-01",
+        "titulo": "Falda Tableada",
+        "imagen": "./img/vestidos/pollera-tablas.JPG",
+        "categoria": {
+            "nombre": "Vestidos",
+            "id": "vestidos"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Pantalon Sastrero",
+        "imagen": "./img/pantalones/pantalon-sastrero.JPG",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalon de Cuero",
+        "imagen": "./img/pantalones/pantalon-cuero.JPG",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 6500
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Pantalon de lino",
+        "imagen": "./img/pantalones/pantalon-lino.JPG",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "pantalon-06",
+        "titulo": "Jean Chupin",
+        "imagen": "./img/pantalones/chupin-jean.JPG",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "pantalon-07",
+        "titulo": "Jean Wideleg",
+        "imagen": "./img/pantalones/wideleg-jean.JPG",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "vestido-02",
+        "titulo": "Vestido Rosa",
+        "imagen": "./img/vestidos/vestido-rosa.JPG",
+        "categoria": {
+            "nombre": "Vestidos",
+            "id": "vestidos"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "vestido-03",
+        "titulo": "Vestido Verano",
+        "imagen": "./img/vestidos/vestidito-verano.JPG",
+        "categoria": {
+            "nombre": "Vestidos",
+            "id": "vestidos"
+        },
+        "precio": 5500
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Camisa",
+        "imagen": "./img/camisetas/camisa-clasica.JPG",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Camisa Cuero",
+        "imagen": "./img/camisetas/camisa-cuero.JPG",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Blazer Negro",
+        "imagen": "./img/abrigos/blazer-sastre.JPG",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Blazer Cuero",
+        "imagen": "./img/abrigos/blazer-cuero.JPG",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 7000
+    }
+]

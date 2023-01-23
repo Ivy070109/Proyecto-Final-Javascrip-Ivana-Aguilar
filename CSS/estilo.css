@@ -149,6 +149,33 @@ main {
     padding: 3rem;
 }
 
+.banner {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/BORA.JPG);
+    background-position: center;
+    height: 60vh;
+    background-size: cover;
+}
+
+.banner-container {
+    text-align: center;
+    padding: 15% 0;
+}
+
+.banner-container .titulo-grande {
+    margin: 0;
+    color: black;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.banner-container .parrafo-fantasia {
+    font-size: 2rem;
+    color: black;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+    font-family: var(--titulo);
+}
+
 .titulo-principal {
     color: var(--clr-main);
     margin-bottom: 2rem;

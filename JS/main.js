@@ -1,6 +1,6 @@
 let productos = [];
 
-fetch("./js/productos.json")
+fetch("./JS/productos.json")
     .then(response => response.json())
     .then(data => {
         productos = data;
@@ -92,7 +92,7 @@ function agregarAlCarrito(e) {
         position: "right", 
         stopOnFocus: true, 
         style: {
-          background: "linear-gradient(to right, #4b33a8, #785ce9)",
+          background: "linear-gradient(to right, #6b29bd, #785ce9)",
           borderRadius: "2rem",
           textTransform: "uppercase",
           fontSize: ".75rem"
